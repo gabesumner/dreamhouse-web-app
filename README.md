@@ -7,6 +7,8 @@ This sample app is a mobile web app for [DreamHouse](https://dreamhouse-site.her
 
 This app is built with Ionic and Node.js so you can easily run it locally and on Heroku.
 
+Test
+
 Run Locally:
 
 1. [Install and start Postgres](https://wiki.postgresql.org/wiki/Detailed_installation_guides)
